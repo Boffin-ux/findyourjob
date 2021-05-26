@@ -5,3 +5,4 @@
 - HTML
 - CSS
 - Bootstrap v5.0.1
+- SVG sprites
