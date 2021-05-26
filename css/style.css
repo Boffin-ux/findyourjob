@@ -93,6 +93,10 @@ body {
    border: 1px solid #B2B2B2;
    border-radius: 5px;
 }
+.tag:hover {
+   background: #1A75E8;
+   color: #fff;
+}
 .section{
    padding-top: 70px;
    padding-bottom: 80px;
@@ -117,6 +121,7 @@ body {
    fill: #fff;
 }
 .card-icon{
+   width: 100%;
    fill: #111238;
    margin-bottom: 15px;
    transition: fill 0.2s;
